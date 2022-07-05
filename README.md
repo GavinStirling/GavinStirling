@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GavinStirling, a Mechanical Engineer who is looking to move into the Software Engineering space.
+- 👋 Hi, I’m @GavinStirling, a Mechanical and Full Stack Software Engineer.
 - 👀 I’m interested in full stack development/engineering. 
 - 📫 How to reach me: gavinstir@gmail.com
 
