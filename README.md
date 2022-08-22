@@ -4,7 +4,7 @@
 - I’m interested in full stack development/engineering. 
 - You can reach me at: gavinstir@gmail.com 
 
-## My Statistics
+## A Quick Summary
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GavinStirling&theme=vue)
 
