@@ -6,7 +6,7 @@
 
 ## A Quick Summary
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GavinStirling&theme=vue)
+
 
 ### My current tech stack:
 
